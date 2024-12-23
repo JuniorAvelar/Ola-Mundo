@@ -5,3 +5,5 @@
 
     # atalhos 
         Ctrl + enter => faz o commit
+
+        Ctrl + P => faz um push
